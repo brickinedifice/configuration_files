@@ -34,6 +34,10 @@ alias jl="jupyter lab"
 alias rmCP="rm -rf /Users/darpanbiswas/Downloads/CHROME_PROFILE"
 alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome"
 alias ll="ls -al"
+alias fwon="sudo defaults write /Library/Preferences/com.apple.alf globalstate -int 1"
+alias fwof="sudo defaults write /Library/Preferences/com.apple.alf globalstate -int 0"
+alias gr1='grep --color=always -rwnl ./ -e'
+alias gr2='grep --color=always -C 3 -rwn ./ -e'
 
 
 # added by Anaconda2 4.4.0 installer
@@ -49,3 +53,18 @@ set -o vi
 
 # auto complete with tab and then cycle through option
 # bind '"\t":menu-complete'
+
+# set time style
+export TIME_STYLE=long-iso
+
+# set EDITOR for crontab
+export EDITOR=nano
+
+# set alias for ssh into MCCM Ubuntu Server
+alias ssh_mu_02='ssh -i ~/.ssh/mccm_rsa_ubuntumccm02 darpanbiswas@10.10.0.14'
+
+# set imagemagick path for emacs
+export PATH="/usr/local/opt/imagemagick@6/bin:$PATH"
+export LDFLAGS="-L/usr/local/opt/imagemagick@6/lib"
+export CPPFLAGS="-I/usr/local/opt/imagemagick@6/include"
+export PKG_CONFIG_PATH="/usr/local/opt/imagemagick@6/lib/pkgconfig"
