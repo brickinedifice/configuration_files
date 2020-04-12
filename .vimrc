@@ -36,6 +36,8 @@ au BufNewFile,BufRead *.py
 
 
 " Plugin 'vim-scripts/indentpython.vim'
+let g:solarized_termcolors=256
+let g:solarized_termtrans=1
 
 highlight BadWhitespace ctermbg=red
 "au BufRead,BufNewFile *.py,*.pyw,*.c,*.h match BadWhitespace /\s\+$/
@@ -76,8 +78,8 @@ call togglebg#map("<F5>")
 
 set number
 set relativenumber
-set list
-set listchars=tab:▸\ ,eol:¬,trail:…,extends:…,precedes:…
+"set list
+"set listchars=tab:▸\ ,eol:¬,trail:…,extends:…,precedes:…
 "set listchars=tab:.\ ,eol:¬,trail:…,extends:…,precedes:…
 "set listchars=tab:\ \ ,eol:¬,trail:…,extends:…,precedes:…
 "set listchars=trail:…,extends:…,precedes:…
