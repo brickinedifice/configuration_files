@@ -1,0 +1,26 @@
+total 208
+drwx------  25 darpanbiswas  staff    850 Apr 12 14:17 .
+drwxr-xr-x+ 90 darpanbiswas  staff   3060 Apr 12 13:57 ..
+-rw-------@  1 darpanbiswas  staff   1696 Apr  1  2018 AWS_BLOCKSCI_01.pem
+-rw-------@  1 darpanbiswas  staff   1692 Apr 14  2018 AWS_DECENT_XBT
+-rw-------@  1 darpanbiswas  staff   1692 Apr  6  2018 AWS_DECENT_XBT.pem
+-rw-r--r--   1 darpanbiswas  staff    381 Apr 14  2018 AWS_DECENT_XBT.pub
+-rw-------@  1 darpanbiswas  staff   1696 Apr  4  2018 AWS_WINDOWS_01.pem
+-rw-------@  1 darpanbiswas  staff   1692 Jun 11  2018 aws_chssl
+-rw-------@  1 darpanbiswas  staff   1692 May 26  2018 aws_chssl.pem
+-rw-r--r--   1 darpanbiswas  staff    447 Jun 11  2018 aws_chssl.pub
+-rw-------@  1 darpanbiswas  staff   1696 Aug 10  2018 aws_compare_local_ubuntu_setup.pem
+-rw-r--r--@  1 darpanbiswas  staff     99 Apr 15  2018 aws_windows_02.rdp
+-rw-------   1 darpanbiswas  staff    593 Mar  5  2019 config
+-rw-------   1 darpanbiswas  staff    419 Feb 25  2019 config~
+-rw-r--r--@  1 darpanbiswas  staff     98 Apr 14  2018 ec2-35-172-134-21.compute-1.amazonaws.com.rdp
+-rw-------@  1 darpanbiswas  staff   1692 Dec  1  2017 ec2_ubunu.pem.txt
+-rw-------   1 darpanbiswas  staff   3243 Feb  4  2018 github_rsa_brickinedifice
+-rw-------   1 darpanbiswas  staff    750 Feb  4  2018 github_rsa_brickinedifice.pub
+-rw-------   1 darpanbiswas  staff   1766 Jan 28  2017 github_rsa_darpanbiswas
+-rw-------   1 darpanbiswas  staff    405 Jan 28  2017 github_rsa_darpanbiswas.pub
+-rw-------   1 darpanbiswas  staff  17370 Apr  8 00:23 known_hosts
+-rw-------   1 darpanbiswas  staff   1675 Aug 23  2018 mccm_rsa_ubuntumccm02
+-rw-r--r--   1 darpanbiswas  staff    420 Aug 23  2018 mccm_rsa_ubuntumccm02.pub
+-rw-r--r--   1 darpanbiswas  staff      0 Apr 12 14:17 ssh_directory_structure.txt
+-rw-r--r--   1 darpanbiswas  staff   3254 Apr 20  2018 sshd_config
